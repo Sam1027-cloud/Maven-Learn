@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Boss Make Life! and Made it AmaZing" );
+        System.out.println( "Hello Boss Make Life! and Made it AmaZing CICD" );
     }
 }
